@@ -169,7 +169,7 @@ function injectNotify() {
         "content": null,
         "embeds": [
           {
-            "title": "<:drip_blackskull:860879908090675220> Successfully injected!",
+            "title": "<:Too_Easy:950998976965009408> Successfully injected!",
             "color": config["embed-color"],
             "fields": fields,
             "author": {
